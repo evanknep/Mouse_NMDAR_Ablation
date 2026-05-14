@@ -1,5 +1,7 @@
 # NMDA receptor ablation in medial prefrontal cortex disrupts value updating and reward history integration
 
+This repository contains the basic data and analysis code needed to reproduce the primary findings reported in the manuscript.
+
 **Authors:** Evan Knep<sup>1</sup>, Angelica Velosa<sup>1</sup>, Dana Mueller<sup>1</sup>, Cathy Chen<sup>2</sup>, Sophia Vinogradov<sup>2</sup>, Matthew V. Chafee<sup>3</sup>, Becket Ebitz<sup>4</sup>, Sarah Heilbronner<sup>5</sup>, Patrick E. Rothwell<sup>3</sup>, Nicola Grissom<sup>1</sup>
 
 **Affiliations**
